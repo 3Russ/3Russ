@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @3Russ
 - 👀 I’m interested in basketball and kungfu.
 - 🌱 I’m currently learning AI.
-- 💞️ I’m looking to collaborate on cdu.
+- 💞️ I’m looking to collaborate on Deep learning.
 - 📫 How to reach me ...
 
 <!---
